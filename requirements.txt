@@ -1,0 +1,16 @@
+# Pin these to the versions you actually ran, then commit the pinned file.
+# `pip freeze | grep -iE "torch|timm|transformers|scikit-learn|numpy|pillow|imagehash|pandas|matplotlib|tqdm"`
+# on the machine that produced the results is the fastest way to get exact versions.
+# timm and transformers versions matter: they determine which checkpoint weights are fetched.
+
+torch>=2.1
+torchvision>=0.16
+timm>=0.9.12
+transformers>=4.35
+scikit-learn>=1.3
+numpy>=1.24
+pillow>=10.0
+imagehash>=4.3
+tqdm>=4.66
+pandas>=2.0
+matplotlib>=3.7
