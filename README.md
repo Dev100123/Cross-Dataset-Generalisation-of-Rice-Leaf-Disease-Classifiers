@@ -2,7 +2,7 @@
 
 Code for the paper **“Cross-Dataset Generalisation of Rice Leaf Disease Classifiers: Evaluating
 Intra-Crop Domain Shift and Target-Domain Adaptation”**
-Rajib Chandra Ghosh, Semanto Mondal, Alberto Moccardi, Flora Amato — DIETI, University of Naples Federico II.
+Flora Amato, Rajib Chandra Ghosh, Semanto Mondal, Alberto Moccardi — DIETI, University of Naples Federico II.
 
 Deep models for rice leaf disease classification routinely report >90% accuracy, but almost always on a
 held-out split of the *same* dataset. This repository contains the full pipeline for a leakage-controlled,
@@ -251,7 +251,7 @@ Read this section before drawing conclusions from the code.
 @article{ghosh2025crossdataset,
   title   = {Cross-Dataset Generalisation of Rice Leaf Disease Classifiers:
              Evaluating Intra-Crop Domain Shift and Target-Domain Adaptation},
-  author  = {Ghosh, Rajib Chandra and Mondal, Semanto and Moccardi, Alberto and Amato, Flora},
+  author  = {Amato, Flora and Ghosh, Rajib Chandra and Mondal, Semanto and Moccardi, Alberto},
   journal = {Smart Agricultural Technology},
   year    = {2025}
 }
