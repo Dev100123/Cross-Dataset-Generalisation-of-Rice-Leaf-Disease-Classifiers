@@ -207,7 +207,7 @@ Label efficiency (MiT-B0, full fine-tuning, macro-F1):
 
 ---
 
-## 7. Notes, scope, and known caveats
+## 7. Notes, scope, and known caveats.
 
 Read this section before drawing conclusions from the code.
 
