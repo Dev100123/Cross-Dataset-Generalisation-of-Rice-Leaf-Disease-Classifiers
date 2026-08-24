@@ -257,12 +257,5 @@ Read this section before drawing conclusions from the code.
 }
 ```
 
-Please also cite the two source datasets (Hossain et al., 2021; Hasan et al., 2023).
 
-## 9. Acknowledgements
 
-Funded by project code PIRO1_00011 “IBISCo”, PON 2014–2020 (INFN, UNINA, CNR).
-
-## 10. License
-
-TODO — add a `LICENSE` file (MIT or Apache-2.0 is conventional for this kind of research code).
