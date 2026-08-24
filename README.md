@@ -253,7 +253,7 @@ Read this section before drawing conclusions from the code.
              Evaluating Intra-Crop Domain Shift and Target-Domain Adaptation},
   author  = {Amato, Flora and Ghosh, Rajib Chandra and Mondal, Semanto and Moccardi, Alberto},
   journal = {Smart Agricultural Technology},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
