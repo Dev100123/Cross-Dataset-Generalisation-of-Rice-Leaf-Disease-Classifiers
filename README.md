@@ -248,7 +248,7 @@ Read this section before drawing conclusions from the code.
 ## 8. Citation
 
 ```bibtex
-@article{ghosh2025crossdataset,
+@article{amato2026crossdataset,
   title   = {Cross-Dataset Generalisation of Rice Leaf Disease Classifiers:
              Evaluating Intra-Crop Domain Shift and Target-Domain Adaptation},
   author  = {Amato, Flora and Ghosh, Rajib Chandra and Mondal, Semanto and Moccardi, Alberto},
